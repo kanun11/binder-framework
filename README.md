@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/kanun11/binder-framework#readme)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/kanun11/binder-framework)
 
 
 # Using Binder to Host your Notebooks
